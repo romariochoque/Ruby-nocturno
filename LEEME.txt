@@ -1,0 +1,9 @@
+CUMPLEAÑOS RUBY · ARCHIVO NOCTURNO
+
+Abre index.html en un navegador. La página funciona con las imágenes incluidas en recuerdos/ y no carga ningún video.
+
+La línea del tiempo conserva las fechas disponibles entre agosto de 2025 y noviembre de 2026. Las notas del chat se señalan como recuerdos del chat; las tarjetas llamadas DEDICATORIA son mensajes nuevos escritos para acompañar las fechas de los videos retirados.
+
+Para cambiar textos desde la página, pulsa “Personalizar textos”, edita las frases resaltadas y guarda. Esos cambios quedan en ese navegador. Para que todos vean cambios, edita index.html y vuelve a subir la carpeta.
+
+Para agregar fotos: copia el archivo de imagen dentro de recuerdos/ y añade una tarjeta en la lista de meses de index.html. El ZIP incluye imágenes y página, sin videos.
